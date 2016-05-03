@@ -1,1 +1,1 @@
-Double click to edit the title
+Phenomenological model for the influence of starspots on stellar structure
