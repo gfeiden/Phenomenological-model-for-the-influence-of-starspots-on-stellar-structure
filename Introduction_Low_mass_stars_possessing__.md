@@ -18,4 +18,10 @@ The blocked flux is a concern for stellar interior structure and evolution. Flux
 
 Multiple timescales are involved in the eventual redistribution of heat and the gradual feedback on a star's overall thermal structure. Timescale for turbulent diffusion, or that required for heat to be extracted from the reservoir, followed by the thermal timescale of the convective envelope, which is finally proceeded by a period of thermal restructuring \citep{Spruit1982a}. Meanwhile, the impact on stellar structure is unique to each phase.
 
-Predictions from the thermal plug model are consistent with observations of sunspots, bolstering the viability of the model. If trapped heat were able to efficiently flow around its oppressor, one would expect to observe bright rings surrounding individual spots \citep{Spruit1982b}. This is, however, not observed with the exception of a brightening in a narrow wavelength region around 4300 \AA\ \citep{Bray1964}. 
+Predictions from the thermal plug model are consistent with observations of sunspots, bolstering the viability of the model. If trapped heat were able to efficiently flow around its oppressor, one would expect to observe bright rings surrounding individual spots \citep{Spruit1982b}. This is, however, not observed with the exception of a brightening in a narrow wavelength region around 4300 Å \citep{Bray1964}. 
+
+## Motivation
+
+Given potential uncertainties regarding the depth to which spots may reach into the stellar convection zone, we seek to develop a toy model for incorporating the influence of spots on stellar structure into stellar evolution models. Effects of spots can be two-fold: (1) they may redistribute emergent flux, altering observed colors and magnitudes of stars, and (2) they may, after a time, force a star to thermally restructure, as discussed above. 
+
+The influence that any given spot or distribution of spots may have on a star was shown to be related to the timescale over which spots exists. However, there is an added consideration, which is the depth to which spots extend into the convection zone. While a shallow spot suppress emergent energy in a similar manner to a deep-seated spot, the redistribution of flux trapped beneath either spot is dependent on its depth.
