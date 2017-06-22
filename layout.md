@@ -1,3 +1,3 @@
 Abstract.md
-section_Introduction_Low_mass_stars__.tex
+section_Introduction_Late_type_stars__.tex
 section_Modeling_the_influence_of__.tex
