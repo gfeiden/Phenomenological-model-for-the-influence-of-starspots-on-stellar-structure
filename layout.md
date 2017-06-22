@@ -1,4 +1,3 @@
 Abstract.md
-Introduction_Low_mass_stars_possessing__.md
 section_Introduction_Low_mass_stars__.tex
 Influence_of_starspots_To_model__.md
