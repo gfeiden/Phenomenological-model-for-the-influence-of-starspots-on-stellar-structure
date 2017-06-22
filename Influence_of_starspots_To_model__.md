@@ -1,7 +1,0 @@
-# Influence of starspots
-
-To model the influence of starspots on stellar structure, we develop a simple parametrized model to apply corrections to stellar evolution model isochrones. The impact of starspots on stellar structure can be reduced to variations in five quantities: the bolometric luminosity ratio between a spotted star and an unspotted counterpart (\(\zeta\)), the ratio of the surface area between a spotted and a similar unspotted star (\(\xi\)), the fractional areal coverage of spots (\(\varrho\)), the temperature ratio between a star’s photospheric temperature and it's original effective temperature (\(\varphi\)), and the temperature ratio between the unspotted photosphere and the spots (\(\varpi\)). These are summarized in Table 1.
-
-## Short timescale approximation
-
-## Long timescale approximation
